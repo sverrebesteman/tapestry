@@ -6,10 +6,7 @@ tapestry crochet chart tool. give it image and your colours, get a chart back.
 
 Requires Rust.
 
-```git clone https://github.com/sverrebesteman/tapestry```
-```cd tapestry```
-```cargo build --release```
-```sudo ln -sf $(realpath target/release/tapestry) /usr/local/bin/tapestry```
+```git clone https://github.com/sverrebesteman/tapestry && cd tapestry && cargo build --release && sudo ln -sf $(realpath target/release/tapestry) /usr/local/bin/tapestry```
 
 ## Usage
 
